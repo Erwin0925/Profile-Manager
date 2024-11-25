@@ -1,0 +1,14 @@
+@Test_Backend_HostAddress = https://localhost:7135
+
+GET {{Test_Backend_HostAddress}}/api/users
+
+###
+
+POST {{Test_Backend_HostAddress}}/api/users
+Content-Type: application/json
+
+{
+  //Users
+}
+
+###

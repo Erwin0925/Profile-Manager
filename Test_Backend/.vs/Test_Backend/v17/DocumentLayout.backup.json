@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erwin\\Desktop\\Test\\Test_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEA1A67-EA58-41F7-9515-BD1493F27CE4}|Test_Backend\\Test_Backend.csproj|c:\\users\\erwin\\desktop\\test\\test_backend\\test_backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEA1A67-EA58-41F7-9515-BD1493F27CE4}|Test_Backend\\Test_Backend.csproj|solutionrelative:test_backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEA1A67-EA58-41F7-9515-BD1493F27CE4}|Test_Backend\\Test_Backend.csproj|c:\\users\\erwin\\desktop\\test\\test_backend\\test_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEA1A67-EA58-41F7-9515-BD1493F27CE4}|Test_Backend\\Test_Backend.csproj|solutionrelative:test_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEA1A67-EA58-41F7-9515-BD1493F27CE4}|Test_Backend\\Test_Backend.csproj|c:\\users\\erwin\\desktop\\test\\test_backend\\test_backend\\test_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ACEA1A67-EA58-41F7-9515-BD1493F27CE4}|Test_Backend\\Test_Backend.csproj|solutionrelative:test_backend\\test_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEA1A67-EA58-41F7-9515-BD1493F27CE4}|Test_Backend\\Test_Backend.csproj|c:\\users\\erwin\\desktop\\test\\test_backend\\test_backend\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEA1A67-EA58-41F7-9515-BD1493F27CE4}|Test_Backend\\Test_Backend.csproj|solutionrelative:test_backend\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\Desktop\\Test\\Test_Backend\\Test_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Test_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\erwin\\Desktop\\Test\\Test_Backend\\Test_Backend\\Program.cs",
+              "RelativeToolTip": "Test_Backend\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:59:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test_Backend.http",
+              "DocumentMoniker": "C:\\Users\\erwin\\Desktop\\Test\\Test_Backend\\Test_Backend\\Test_Backend.http",
+              "RelativeDocumentMoniker": "Test_Backend\\Test_Backend.http",
+              "ToolTip": "C:\\Users\\erwin\\Desktop\\Test\\Test_Backend\\Test_Backend\\Test_Backend.http",
+              "RelativeToolTip": "Test_Backend\\Test_Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-24T15:55:15.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\Desktop\\Test\\Test_Backend\\Test_Backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Test_Backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\erwin\\Desktop\\Test\\Test_Backend\\Test_Backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Test_Backend\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:50:31.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\Desktop\\Test\\Test_Backend\\Test_Backend\\Entity\\Users.cs",
+              "RelativeDocumentMoniker": "Test_Backend\\Entity\\Users.cs",
+              "ToolTip": "C:\\Users\\erwin\\Desktop\\Test\\Test_Backend\\Test_Backend\\Entity\\Users.cs",
+              "RelativeToolTip": "Test_Backend\\Entity\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:02:14.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
