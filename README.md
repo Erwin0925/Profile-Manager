@@ -1,12 +1,5 @@
 # Basic .Net + React  Applicaton (CRUD Operation)
 
-## Folder Structure
-root
-│
-├── backend/       # Backend codebase (API, database, services)
-│
-└── frontend/      # Frontend codebase (React components, assets)
-
 ## Prerequisites
 Ensure the following tools are installed on your system:
 - Node.js (vX.X.X or later)
