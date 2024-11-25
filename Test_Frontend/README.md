@@ -1,8 +1,15 @@
-# React + Vite
+# Frontend (React + Vite)
+- Purpose: Create a user-friendly interface for managing user profiles.
+- Tools Used: React, Vite, Axios, React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features:
+### GET:
+- Fetch and display all users in a table format on the homepage.
+- Each row includes options to edit or delete a user.
+### POST:
+- A form to create a new user with fields:
+-Name, Email, JobTitle, PhoneNumber, ProfilePicture
+### PUT:
+- Allows users to modify and save the changes.
+### DELETE:
+- A delete button triggers a confirmation dialog and sends a request to remove the selected user.
